@@ -1,0 +1,18 @@
+2024-06-04 15:22:31 - main - DEBUG - Starting server at localhost:12345
+2024-06-04 15:22:31 - main - DEBUG - Server started and listening on port 12345
+2024-06-04 15:22:41 - main - DEBUG - Accepted connection from ('127.0.0.1', 55559)
+2024-06-04 15:22:47 - main - DEBUG - Accepted connection from ('127.0.0.1', 55563)
+2024-06-04 15:22:56 - main - DEBUG - User: adam2 has connected
+2024-06-04 15:23:01 - main - DEBUG - User: adam1 has connected
+2024-06-04 15:23:06 - main - DEBUG - Accepted connection from ('127.0.0.1', 55564)
+2024-06-04 15:23:08 - main - DEBUG - User: adam3 has connected
+2024-06-04 15:23:11 - main - DEBUG - Accepted connection from ('127.0.0.1', 55565)
+2024-06-04 15:23:12 - main - DEBUG - User: adam4 has connected
+2024-06-04 15:25:36 - main - DEBUG - Accepted connection from ('127.0.0.1', 55582)
+2024-06-04 15:25:38 - main - DEBUG - User: adam1 has connected
+2024-06-04 15:25:39 - main - DEBUG - Accepted connection from ('127.0.0.1', 55583)
+2024-06-04 15:25:40 - main - DEBUG - User: adam2 has connected
+2024-06-04 15:25:41 - main - DEBUG - Accepted connection from ('127.0.0.1', 55584)
+2024-06-04 15:25:43 - main - DEBUG - User: adam3 has connected
+2024-06-04 15:25:45 - main - DEBUG - Accepted connection from ('127.0.0.1', 55585)
+2024-06-04 15:25:46 - main - DEBUG - User: adam5 has connected

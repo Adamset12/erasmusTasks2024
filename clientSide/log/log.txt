@@ -1,0 +1,10 @@
+2024-06-04 15:23:12 - main - INFO - Connection established as adam4
+2024-06-04 15:23:12 - main - INFO - adam4 has ended its connection.
+2024-06-04 15:25:38 - main - INFO - Connection established as adam1
+2024-06-04 15:25:38 - main - INFO - adam1 has ended its connection.
+2024-06-04 15:25:40 - main - INFO - Connection established as adam2
+2024-06-04 15:25:40 - main - INFO - adam2 has ended its connection.
+2024-06-04 15:25:43 - main - INFO - Connection established as adam3
+2024-06-04 15:25:43 - main - INFO - adam3 has ended its connection.
+2024-06-04 15:25:46 - main - INFO - Connection established as adam5
+2024-06-04 15:25:46 - main - INFO - adam5 has ended its connection.

@@ -8,7 +8,6 @@ import log_config
 #region declarations
 SERVER_IP = 'localhost'
 SERVER_PORT = 12345
-done = False
 #endregion
 
 #region functions
@@ -18,6 +17,7 @@ def start_server():
     server_socket.listen()
     print('Waiting for a connection')
     return server_socket
+
 def client_traffic(client_socket, addr):
         print(f'Got a connection from {addr}')
         try:
